@@ -1,7 +1,6 @@
 ### Hi there I'm Tahsina Priya👋
 
-<!--
-**tahsinapriya/tahsinapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## About Me
 - I have a keen interest in pursuing a career as a Software Quality Assurance Engineer 🌟
@@ -13,4 +12,3 @@
 - 📧 Email: tahsinapriya@gmail.com
 
 
--->
