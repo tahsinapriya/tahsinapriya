@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm Tahsina Priya👋
 
 <!--
 **tahsinapriya/tahsinapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- I have a keen interest in pursuing a career as a Software Quality Assurance Engineer 🌟
+- Skills:Java,Web Automation with Selenium, Manual Testing, Test Case, Bug Reporting, API testing, Postman, Performance Testing with JMeter, Jira  🛠
+- Currently learning Web Automation And Cucumber 🌱
+- [LinkedIn Profile](<tahsina-priya-9b6015114>) 👩‍💻
+- Email: tahsinapriya@gmail.com 📫
+## How to Reach Me
+- 📧 Email: tahsinapriya@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
